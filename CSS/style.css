@@ -1,0 +1,75 @@
+body {
+  
+background-color: rgba(219, 198, 164, 0.795);
+}
+
+.navbar {
+  background-color: rgb(27, 27, 27);
+}
+
+.nav-item .nav-link {
+  color: white;
+  font-size: 20px;
+  margin-left: 10px;
+  text-decoration-line: underline;
+  text-decoration-color: rgb(185, 172, 136);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}
+
+.boton {
+  color: white;
+  background-color: rgb(185, 182, 136);
+  border-radius: 5px;
+  border-color: rgb(185, 172, 136);
+}
+
+.titulo {
+  text-align: center;
+  margin-top: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-line: underline;
+  text-decoration-color: rgb(185, 172, 136);
+  text-decoration-thickness: 4px;
+  text-underline-offset: 10px;
+}
+
+.titulos {
+  margin-bottom: 70px;
+}
+
+.titulo2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bios {
+  margin-top: 90px;
+}
+
+.bioleo {
+  margin-bottom: 30px;
+}
+.biorafa {
+  margin-bottom: 30px;
+}
+.biomiguel {
+  margin-bottom: 90px;
+}
+
+.galleryboton {
+  background-color: rgb(185, 172, 136) !important;
+  border-color:rgb(185, 172, 136) !important; ;
+}
+
+.gllrys {
+
+  background-color: rgba(185, 172, 136, 0.452);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer {
+background-color: rgb(255, 255, 255);
+
+}
